@@ -127,3 +127,11 @@ xss:
   excludes: /system/notice
   # 匹配链接
   urlPatterns: /system/*,/monitor/*,/tool/*
+
+aliyun:
+  oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
+    accessKeyId: LTAI5tMqxankbNFxPVXTW2Yg
+    accessKeySecret: y6SkTDVJBG3Lmg4umSXrGvlmszATG5
+    bucketName: rainbow-web-tlias
+
