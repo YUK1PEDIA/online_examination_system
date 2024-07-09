@@ -61,6 +61,12 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+<!--        试题列表-->
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>ruoyi-exam</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
